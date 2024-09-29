@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 cd task1/
 ./build.sh
