@@ -8,7 +8,7 @@ cd ../../task2/task2.1
 ./build.sh
 cd ../task2.2
 ./build.sh
-cd ../../task3/task3.1
+cd ../../task3/task3_1
 ./build.sh
-cd ../task3.2
+cd ../task3_2
 ./build.sh
